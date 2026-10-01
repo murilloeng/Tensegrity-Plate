@@ -1,3 +1,3 @@
-# Tensegrity Chair
+# Tensegrity Plate
 
-Repository to work on the tensegrity paper.
+Repository to work on the tensegrity plate mechanics.
